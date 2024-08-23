@@ -1,2 +1,2 @@
-# Test.guthub.io
+# Test.github.io
 Test
