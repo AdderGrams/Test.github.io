@@ -1,2 +1,5 @@
-# Test.github.io
-Test site for proving Github Pages with custom domain and HTTPS
+# addergrams.github.io
+
+Addergrams is a word game combining aspects of crosswords, anagrams and Wordle.
+Addergrams is run as a not-for-profit web site for friends. 
+No personal information is collected and no advertising is presented.
